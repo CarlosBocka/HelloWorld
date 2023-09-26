@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.example.helloworld","c":"MainActivity","l":"MainActivity()","u":"%3Cinit%3E()"}];updateSearchResults();
